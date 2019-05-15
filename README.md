@@ -1,5 +1,5 @@
 # Movie Crawler
-This is simple movie crawler that scrapes popular website from [MOVIE DATABASE](https://www.themoviedb.org)
+This is simple movie crawler that scrapes popular movies website from [MOVIE DATABASE](https://www.themoviedb.org)
 
 ## Installation
 In order to run this project make sure you have `python3` installed if not you can always check using this command `python3 --version`
@@ -17,3 +17,6 @@ In order to run this project make sure you have `python3` installed if not you c
 ## Contributions
 Any contribution is welcomed in order to improve this software
 if you have any questions about this crawler feel free to [contact me](mailto:muhammadraza0047@gmail.com)
+
+
+Note: This only scrapes 200 pages
