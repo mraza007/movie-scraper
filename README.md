@@ -11,7 +11,7 @@ In order to run this project make sure you have `python3` installed if not you c
 
 ## Usage
 - In order to use this crawler simply run this command `scrapy crawl movies_data`.
-- After running that command this is going to scrape the results and saves into `movies.csv` files.
+- After running that command this is going to scrape the results and save into `movies.csv` files.
 
 
 ## Contributions
